@@ -13,7 +13,12 @@ status](https://www.r-pkg.org/badges/version/ttapi)](https://CRAN.R-project.org/
 coverage](https://codecov.io/gh/r4ds/ttapi/branch/main/graph/badge.svg)](https://app.codecov.io/gh/r4ds/ttapi?branch=main)
 <!-- badges: end -->
 
-Query up-to-date metadata about TidyTuesday datasets.
+This package will serve a Plumber API to allow you to query up-to-date
+metadata about TidyTuesday datasets. At the moment this is a
+placeholder. The active development is at
+[{ttmeta}](https://r4ds.github.io/ttmeta/), which collects and serves
+the data in package form. It is possible this package will merge back
+into that one.
 
 ## Installation
 
