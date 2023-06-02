@@ -16,6 +16,9 @@ knitr::opts_chunk$set(
 # ttapi2
 
 <!-- badges: start -->
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![CRAN status](https://www.r-pkg.org/badges/version/ttapi2)](https://CRAN.R-project.org/package=ttapi2)
+[![Codecov test coverage](https://codecov.io/gh/r4ds/ttapi2/branch/main/graph/badge.svg)](https://app.codecov.io/gh/r4ds/ttapi2?branch=main)
 <!-- badges: end -->
 
 Query up-to-date metadata about TidyTuesday datasets.
